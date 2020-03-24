@@ -1,8 +1,8 @@
 # Chess Player - RESTful API
 
-[![Build Status](https://travis-ci.org/hagopj13/node-express-mongoose-boilerplate.svg?branch=master)](https://travis-ci.org/matt-d-webb/chess-player-api)
-[![Coverage Status](https://coveralls.io/repos/github/hagopj13/node-express-mongoose-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/matt-d-webb/chess-player-api?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2ab03f5d62a1404f87a659afe8d6d5de)](https://www.codacy.com/manual/matt-d-webb/chess-player-api?utm_source=github.com&utm_medium=referral&utm_content=matt-d-webb/chess-player-api&utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/matt-d-webb/chess-player-api.svg?branch=master)](https://travis-ci.org/matt-d-webb/chess-player-api)
+[![Coverage Status](https://coveralls.io/repos/github/matt-d-webb/chess-player-api/badge.svg?branch=master)](https://coveralls.io/github/matt-d-webb/chess-player-api?branch=master)
+
 
 
 A boilerplate/starter project for quickly building production-ready RESTful APIs using Node.js, Express, and Mongoose.
